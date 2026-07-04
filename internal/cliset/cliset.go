@@ -6,7 +6,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/kagami-tsukimura/go-armory/internal"
+	"github.com/k-shimura7617/go-armory/internal"
 )
 
 func Run() {
@@ -88,7 +88,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/kagami-tsukimura/go-armory/internal/%s"
+	"github.com/k-shimura7617/go-armory/internal/%s"
 )
 
 func main() {

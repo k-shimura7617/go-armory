@@ -1,7 +1,7 @@
 // Package st provides the core logic for the "st" CLI command.
 package st
 
-import "github.com/kagami-tsukimura/go-armory/internal"
+import "github.com/k-shimura7617/go-armory/internal"
 
 func Run() error {
 	if err := internal.RunCmd("git", "status"); err != nil {

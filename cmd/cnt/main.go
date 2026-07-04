@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/kagami-tsukimura/go-armory/internal/cnt"
+	"github.com/k-shimura7617/go-armory/internal/cnt"
 )
 
 func main() {

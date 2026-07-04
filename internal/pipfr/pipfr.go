@@ -4,7 +4,7 @@ package pipfr
 import (
 	"os"
 
-	"github.com/kagami-tsukimura/go-armory/internal"
+	"github.com/k-shimura7617/go-armory/internal"
 )
 
 func Run() error {

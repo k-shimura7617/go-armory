@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/kagami-tsukimura/go-armory/internal/pipfr"
+	"github.com/k-shimura7617/go-armory/internal/pipfr"
 )
 
 func main() {

@@ -1,7 +1,7 @@
 // Package shut provides the core logic for the "shut" CLI command.
 package shut
 
-import "github.com/kagami-tsukimura/go-armory/internal"
+import "github.com/k-shimura7617/go-armory/internal"
 
 func Run() error {
 	_ = internal.RunCmd("pkill", "code")

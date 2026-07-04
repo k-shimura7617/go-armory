@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/kagami-tsukimura/go-armory/internal/shut"
+	"github.com/k-shimura7617/go-armory/internal/shut"
 )
 
 func main() {

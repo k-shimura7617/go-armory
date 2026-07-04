@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/kagami-tsukimura/go-armory/internal/dkdown"
+	"github.com/k-shimura7617/go-armory/internal/dkdown"
 )
 
 func main() {

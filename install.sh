@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 set -uo pipefail
 
-REPO="kagami-tsukimura/go-armory"
+REPO="k-shimura7617/go-armory"
 # GitHubの "latest" URLからリダイレクト先のタグ名を取得する
 echo "Fetching latest version tag..."
 VERSION=$(basename $(curl -Ls -o /dev/null -w %{url_effective} "https://github.com/$REPO/releases/latest"))

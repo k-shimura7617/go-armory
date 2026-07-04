@@ -1,6 +1,6 @@
 package main
 
-import "github.com/kagami-tsukimura/go-armory/internal/lg"
+import "github.com/k-shimura7617/go-armory/internal/lg"
 
 func main() {
 	lg.Run()

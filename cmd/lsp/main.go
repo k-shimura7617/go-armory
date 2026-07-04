@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/kagami-tsukimura/go-armory/internal/lsp"
+	"github.com/k-shimura7617/go-armory/internal/lsp"
 )
 
 func main() {

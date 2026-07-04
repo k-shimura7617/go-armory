@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/kagami-tsukimura/go-armory/internal/reb"
+	"github.com/k-shimura7617/go-armory/internal/reb"
 )
 
 func main() {
